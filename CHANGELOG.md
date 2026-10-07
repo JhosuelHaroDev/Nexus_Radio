@@ -7,3 +7,5 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [Unreleased]
 
 - Initial release
+
+"Corregido el formato del stream de audio a .mp3 debido a que .m4a fue descontinuado"

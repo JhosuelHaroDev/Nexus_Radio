@@ -12,7 +12,7 @@ export const STATIONS: Station[] = [
         id: 'nightride',
         label: "Nightride FM", 
         description: "Synthwave Classics", 
-        url: "https://stream.nightride.fm/nightride.m4a", // Volvemos a M4A (Alta Calidad)
+        url: "https://stream.nightride.fm/nightride.mp3", // Volvemos a M4A (Alta Calidad)
         icon: "radio-tower",
         gradient: "linear-gradient(135deg, #00f3ff 0%, #bd00ff 100%)"
     },
@@ -20,7 +20,7 @@ export const STATIONS: Station[] = [
         id: 'chillsynth',
         label: "Chillsynth", 
         description: "Lo-Fi & Downtempo", 
-        url: "https://stream.nightride.fm/chillsynth.m4a",
+        url: "https://stream.nightride.fm/chillsynth.mp3",
         icon: "heart",
         gradient: "linear-gradient(135deg, #ff9a9e 0%, #fecfef 99%, #fecfef 100%)"
     },
@@ -28,7 +28,7 @@ export const STATIONS: Station[] = [
         id: 'datawave',
         label: "Datawave", 
         description: "Cyberpunk Focus", 
-        url: "https://stream.nightride.fm/datawave.m4a",
+        url: "https://stream.nightride.fm/datawave.mp3",
         icon: "terminal",
         gradient: "linear-gradient(135deg, #0ba360 0%, #3cba92 100%)"
     },
@@ -36,7 +36,7 @@ export const STATIONS: Station[] = [
         id: 'spacesynth',
         label: "Spacesynth", 
         description: "Sci-Fi Energy", 
-        url: "https://stream.nightride.fm/spacesynth.m4a",
+        url: "https://stream.nightride.fm/spacesynth.mp3",
         icon: "rocket",
         gradient: "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)"
     },
@@ -44,7 +44,7 @@ export const STATIONS: Station[] = [
         id: 'darksynth',
         label: "Darksynth", 
         description: "Industrial Aggressive", 
-        url: "https://stream.nightride.fm/darksynth.m4a",
+        url: "https://stream.nightride.fm/darksynth.mp3",
         icon: "beaker",
         gradient: "linear-gradient(135deg, #434343 0%, #000000 100%)"
     },
@@ -52,7 +52,7 @@ export const STATIONS: Station[] = [
         id: 'ebsm',
         label: "EBSM", 
         description: "Dark Club & EBM", 
-        url: "https://stream.nightride.fm/ebsm.m4a",
+        url: "https://stream.nightride.fm/ebsm.mp3",
         icon: "zap",
         gradient: "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)"
     },
@@ -60,7 +60,7 @@ export const STATIONS: Station[] = [
         id: 'horrorsynth',
         label: "Horror", 
         description: "Spooky Ambient", 
-        url: "https://stream.nightride.fm/horrorsynth.m4a",
+        url: "https://stream.nightride.fm/horrorsynth.mp3",
         icon: "bug",
         gradient: "linear-gradient(135deg, #240b36 0%, #c31432 100%)"
     },
@@ -68,7 +68,7 @@ export const STATIONS: Station[] = [
         id: 'rekt',
         label: "Rekt FM", 
         description: "Drum & Bass", 
-        url: "https://stream.nightride.fm/rekt.m4a",
+        url: "https://stream.nightride.fm/rekt.mp3",
         icon: "flame",
         gradient: "linear-gradient(135deg, #f83600 0%, #f9d423 100%)"
     }

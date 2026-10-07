@@ -3,7 +3,7 @@
   "displayName": "Nexus Radio",
   "publisher": "jhosuelharo",
   "description": "Radio Cyberpunk para programadores",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "icon": "media/icon.png",
   "repository": {
     "type": "git",

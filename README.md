@@ -3,7 +3,7 @@
 **Focus via Frequency.**
 Una extensión de radio diseñada para mantener el *Flow State* de los programadores. Sintoniza las mejores frecuencias de Synthwave, Lo-Fi y Cyberpunk directamente desde VS Code, sin navegadores ni distracciones.
 
-![Preview](media/preview.png)
+![Preview](https://raw.githubusercontent.com/davidhs1024/nexus-radio/main/media/preview.png)
 
 ## ✨ Características Principales
 
